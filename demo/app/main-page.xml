@@ -1,0 +1,4 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:soc="nativescript-ns-wkwebview" loaded="pageLoaded">
+  <Label text="{{ message }}" class="message" textWrap="true"/>
+  <soc:NsWkWebView id="wv" src="http://www.google.com"></soc:NsWkWebView>
+</Page>
