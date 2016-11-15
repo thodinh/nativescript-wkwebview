@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Develop a NativeScript plugin now (w/ TypeScript)
 
 ## Getting started
@@ -95,6 +94,3 @@ cd nativescript-plugin-seed
 
 // Improve!
 ```
-=======
-# nativescript-wkwebview
->>>>>>> c82363c0bafe89da7837bd8187f3d977468b3865
